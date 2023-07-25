@@ -2,4 +2,51 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    // #b76e79, #f0bbc3, #948285 ,#cc76a1, #59260b, #ffa3af, #818d92, #f4fdff, #e5989b, #6b7d7d, #ffe9f3, #472c4c, #0f52ba
+
+    <color name="colorPrimary">#b76e79</color>
+    <color name="colorPrimaryDark">#f0bbc3</color>
+    <color name="colorAccent">#948285</color>
+    <color name="colorAccent2">#cc76a1</color>
+    <color name="colorAccent3">#59260b</color>
+    <color name="colorAccent4">#ffa3af</color>
+    <color name="colorAccent5">#818d92</color>
+    <color name="colorAccent6">#f4fdff</color>
+    <color name="colorAccent7">#e5989b</color>
+    <color name="colorAccent8">#6b7d7d</color>
+    <color name="colorAccent9">#ffe9f3</color>
+    <color name="colorAccent10">#472c4c</color>
+    <color name="colorAccent11">#0f52ba</color>
+
+    //#D30E92
+    <color name="pink2">#D30E92</color>
+
+
+
+    //#0671B7,#67A3D9,#FDE2ED,#F3C4D6,#F6ACC5
+
+    <color name="dark_blue">#0671B7</color>
+    <color name="light_blue">#67A3D9</color>
+    <color name="light_pink">#FDE2ED</color>
+    <color name="pink">#F3C4D6</color>
+    <color name="dark_pink">#F6ACC5</color>
+    //#EE7C99
+    <color name="red_pink">#EE7C99</color>
+
+    <color name="blackStart">#060607</color>
+    <color name="blueblack">#111f28</color>
+    <color name="greyEnd">#484e52</color>
+
+    //#C20030
+    <color name="red">#C20030</color>
+
+    //#FFB3C6,#FFC2D1,#FFE5EC
+    <color name="lightPink">#FFB3C6</color>
+    <color name="lightPink2">#FFC2D1</color>
+    <color name="lightPink3">#FFE5EC</color>
+
+
+
+
 </resources>
