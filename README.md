@@ -1,6 +1,8 @@
 # Scientific Calculator
 
-![Calculator Screenshot](calculator_screenshot.png)
+![Calculator Screenshot](https://github.com/beyzakececi/Scientific-Calculator/blob/master/Screenshot1.png)
+
+![Calculator Screenshot](https://github.com/beyzakececi/Scientific-Calculator/blob/master/Screenshot2.png)
 
 This project contains a simple scientific calculator application. Users can perform mathematical calculations by entering expressions, and the application analyzes the expressions and calculates the results.
 
